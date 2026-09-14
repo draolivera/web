@@ -1,0 +1,9 @@
+# Evita que Git convierta saltos de línea dentro de archivos binarios
+# (esto es lo que suele corromper imágenes al subirlas desde Windows).
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
